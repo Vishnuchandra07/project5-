@@ -5,31 +5,22 @@ A modern SaaS-style dashboard for Business Development Associate teams to manage
 ## 🔗 Live Demo
 
 - **Frontend:** [https://project5-plum-eight.vercel.app](https://project5-plum-eight.vercel.app)
-
 - **Backend:** [https://project5-production.up.railway.app](https://project5-production.up.railway.app)
 
 ## 🔑 Test Credentials
 
-- **Email:** [vishnu@test.com](mailto:vishnu@test.com)
-
-- **Password:** 123456
+- **Email:** [vishnu@project.com](mailto:vishnu@test.com)
+- **Password:** vishnu723
 
 ## ✨ Features
 
 - JWT Authentication (Register/Login/Logout)
-
 - Dashboard with KPI cards and charts
-
 - Lead Management (Create, Edit, Delete, Assign)
-
 - Kanban Pipeline Board (Drag and Drop)
-
 - Team Management and Performance Tracking
-
 - Activity Timeline
-
 - Search and Filter
-
 - Responsive Design (Mobile/Tablet/Desktop)
 
 ## 🛠️ Tech Stack
@@ -37,35 +28,26 @@ A modern SaaS-style dashboard for Business Development Associate teams to manage
 **Frontend:**
 
 - React.js (Vite)
-
 - Tailwind CSS
-
 - Recharts
-
 - Axios
-
 - React Router
 
 **Backend:**
 
 - Node.js
-
 - Express.js
-
 - MongoDB
-
 - Mongoose
-
 - JWT Authentication
 
-## 📁 Folder Structure  
+## 📁 Folder Structure
+
 BDA Module/ 
 
 ├── client/ # React Frontend 
 
 └── server/ # Node.js Backend
-
-
 
 ## ⚙️ Local Setup
 
